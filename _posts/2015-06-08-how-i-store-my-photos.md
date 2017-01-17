@@ -7,7 +7,7 @@ category: blog
 ---
 
 
-I'm going to start by saying that I'm not a professional photographer and so having redundant backups and other crazy external hard drives doesn’t make any sense to me at this stage. What I will describe here is my personal workflow.
+je vais commencer to start by saying that I'm not a professional photographer and so having redundant backups and other crazy external hard drives doesn’t make any sense to me at this stage. What I will describe here is my personal workflow.
 
 If you’re starting to shoot now and have only a few folders with photos it shouldn’t take a lot of time to organize your photos. If you shoot for more than a year, I’d recommend taking a Saturday or Sunday and calmly going through it.
 
